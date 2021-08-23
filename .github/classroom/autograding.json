@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Jest tests",
+      "setup": "npm install",
+      "run": "npm run testonce",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
